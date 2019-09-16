@@ -24,8 +24,8 @@ default_img: /assets/images/seo.jpg
 #    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+#contact_img: /assets/images/placeholder-28.jpg
+#formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
 #disqus: test-apkdzgmqhj
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'ochema'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
