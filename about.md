@@ -1,7 +1,7 @@
 ---
 layout: post
 title: about
-footer: false
+image: /assets/images/attempt2.png
 ---
 
 Ochema is a vehicle. It transports man across his intercosmic journey, from the sublunary world to the higher spheres. The vehicle carries him, protects him, is affected by his decisions, thickens when he acts irrationally, thins when he operates rationally, sheds when the soul is ready to set free from his earthly fetters.
