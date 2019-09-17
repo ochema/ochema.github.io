@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Footer
-//---------------------------------------------- 
+//----------------------------------------------
 .footer {
   color: $color-white;
   background-color: $color-black;
@@ -37,24 +37,11 @@
     }
   }
 
-  &__social {
-    @extend %flex-center;
-    @extend %no-list-style;
-
-    & > *:not(:last-child) {
-      margin-right: 0.75em;
-    }
-
-    a {
-      font-size: 1.25em;
-      color: $color-white;
-    }
-  }
 }
 
 //----------------------------------------------
 // Flex based sticky footer
-//---------------------------------------------- 
+//----------------------------------------------
 // body {
 //   display: flex;
 //   flex-direction: column;
