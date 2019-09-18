@@ -6,8 +6,7 @@ google_analytics:
 
 #name: Thomas Vaeth
 title: ochema
-description: >
-  ochema is a blog for cultural reviews and critique.
+description: a blog for cultural reviews and critique.
 url: https://ochema.org
 #twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
