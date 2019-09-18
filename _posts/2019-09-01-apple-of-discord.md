@@ -4,7 +4,6 @@ title: "The Apple of Discord"
 date: 2019-09-01
 description: "On Certain Contemporary Culinary Catastrophes"
 image: /assets/images/apple-of-discord.jpg
-author: ochema
 tags:
   - review
   - culinary

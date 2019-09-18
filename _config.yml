@@ -36,7 +36,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'ochema'
+    title: 'The Barber Theme'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
