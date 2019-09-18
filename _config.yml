@@ -36,7 +36,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: '/tag/:tag'
+    title: 'tags'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
