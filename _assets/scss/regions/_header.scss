@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Header
-//---------------------------------------------- 
+//----------------------------------------------
 .header {
   @extend %letter-spacing;
   @extend %box-shadow;
@@ -34,7 +34,7 @@
     @extend %font-header;
 
     font-size: $font-xsmall;
-    color: $color-black;
+    color: $color-gold;
   }
 
   &__list {
