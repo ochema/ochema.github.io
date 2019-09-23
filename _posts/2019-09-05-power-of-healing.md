@@ -4,7 +4,7 @@ title: "The Power of Healing"
 date: 2019-09-05
 description: "National Museum of Ethnology, Leiden - July 12 2019 - January 5 2020"
 subtitle: "National Museum of Ethnology,  Leiden - July 12 2019 - January 5 2020"
-image: /assets/images/apple-of-discord.jpg
+image: /assets/images/power-of-healing.jpg
 tags:
   - for the eyes
 ---
