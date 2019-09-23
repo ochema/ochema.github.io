@@ -1316,7 +1316,7 @@ iframe {
     width: 100%;
     background-position: 50%;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover 50%;
     overflow:hidden
 }
 
