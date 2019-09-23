@@ -4,7 +4,7 @@ title: "L’Anticristo"
 date: 2019-09-08
 description: "Interviste immaginarie sull’arte che non ammettono pietà"
 subtitle: "Interviste immaginarie sull’arte che non ammettono pietà<br>Episodio I - Friederich Nietzsche"
-image: /assets/images/anticristo.png
+image: /assets/images/anticristo.jpeg
 tags:
   - per la mente
 ---
