@@ -61,3 +61,4 @@ exclude:
   - package.json
   - README.md
   - _posts-backup
+  - _site
