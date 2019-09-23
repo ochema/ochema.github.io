@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "<h1>L’Anticristo</h1>"
+title: "L’Anticristo"
 date: 2019-09-08
-description: "Interviste immaginarie sull’arte che non ammettono pietà"
-subtitle: "Interviste immaginarie sull’arte che non ammettono pietà<br><br>Episodio I:<br> <h1>Friederich Nietzsche</h1>"
+description: "Interviste immaginarie sull’arte che non ammettono pietà<br>"
+subtitle: "Interviste immaginarie sull’arte che non ammettono pietà<br>Episodio I:<br> <h1>Friederich Nietzsche</h1>"
 image: /assets/images/anticristo.jpeg
 tags:
   - per la mente
