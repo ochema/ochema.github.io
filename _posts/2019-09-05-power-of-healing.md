@@ -9,10 +9,6 @@ tags:
   - for the eyes
 ---
 
-<blockquote>
-  <p>“This is material for the mindless.”</p>
-</blockquote>
-
 The Power of Healing, the Dutch National Museum of Ethnology’s latest exhibition, is about ritual practices aimed at restoring balances. But it is also about what, in the West, are generally regarded as alternative methods of healing, including winti, shamanism, withcraft and ayahuasca. The exhibition guides the visitor through a journey made of things and talks, during which video testimonies of healing practitioners alternate with display cases containing the instruments they employ to heal and protect their patients.
 
 Even before the exhibition door opens, the visitor is confronted with a disclaimer, warning her/him that the rationale for the show lies in the museum’s mission to be “a museum about people”. People have different approaches to healing, which might or not be shared universally, but the mere fact that they exist gives, in the curators’ view, credit to their importance. It is therefore the museum’s ethnographic responsibility to ensure that more practices as possible are represented.
