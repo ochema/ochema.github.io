@@ -5,8 +5,7 @@ date: 2019-09-01
 description: "On Certain Contemporary Culinary Catastrophes"
 image: /assets/images/apple-of-discord.jpg
 tags:
-  - review
-  - culinary
+  - for the mouth
 ---
 The Greek goddess Eris and her Roman counterpart Discordia would have jubilated in front of the vetrines of patisserie Slijcers. A fly hovering above a stilted slice of days-old apple cake while condensation colonised the glass case with water crystals. Much is up for debate right there. Yet, in silence, we order precisely that slice of cake, maybe to test our chances for survival, maybe to inject some of the animal’s anima in our own. We sit. The cakes are delivered together with a selection of high teas geometrically disposed on a white rectangle of porcelain. We pause. We eat. The first impression is that of a weird mixture of textures, an unblended agglomerate of apple compote and undercooked apple slices glued together by a thick gluey dough of sickly sweetness. Stoically, we endure the torture because we know that coherence rules out criticism. It makes revenge sweeter, in case the cake was not sweet enough on its own.
 
