@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Power of Healing"
-date: 2019-09-05
+date: 2019-09-15
 description: "National Museum of Ethnology, Leiden - July 12 2019 - January 5 2020"
 subtitle: "National Museum of Ethnology, Leiden<br>July 12 2019 - January 5 2020"
 image: /assets/images/power-of-healing.png
