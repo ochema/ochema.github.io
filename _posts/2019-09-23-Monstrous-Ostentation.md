@@ -14,6 +14,8 @@ We get off to a good start. A black screen radiates the sounds of the youths shu
 
 The Messenger arrives by horse to drill the child soldiers and to give further instructions handed down by the unnamed Organisation. Why is the Messenger a dwarf? Is it to mimic the theatre of orchestrated South American guerilla conflict? The ludicrousy of using children in the military? Or to signify the insignificance of the children's ordinary life issues - love, hate, fear, hunger, shrooms - in relation to the brutal conflict they will soon find themselves in? Regardless, I find it bad taste. The overrepresentation of dwarves in cinema, not counting Harry Potter and Lord of the Rings, is in line with their condemnation to the circus arena. Their gimmicky inclusion, therefore, brings with it absurdity and insincerity reminiscent of DreamWorks animations.
 
-They are given a cow. "Don't harm it". They kill it. They panic. More die. The group falls apart. *Did not see that coming*. Don't forget about the hostage, by the way, the cow was just a distraction, although I sincerely enjoyed the film until she got the bullet. 
+They are given a cow. "Don't harm it". They kill it. They panic. More die. The group falls apart. *Did not see that coming*. Don't forget about the hostage, by the way, the cow was just a distraction, although I sincerely enjoyed the film until she got the bullet. With new coordinates, the group embarks down the mountains into the jungle, only to further disintegrate i
+
+
 
 Signed, Ochema
