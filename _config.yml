@@ -40,7 +40,7 @@ autopages:
     permalink: '/tag/:tag'
     slugify:
       mode: raw
-      cased: true
+      cased: false
 
 # Build settings
 markdown: kramdown

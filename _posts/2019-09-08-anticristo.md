@@ -2,16 +2,13 @@
 layout: post
 title: "L’Anticristo"
 date: 2019-09-08
-excerpt: "Interviste immaginarie sull’arte che non ammettono pietà. Episodio I: Friederich Nietzsche."
+excerpt: "Interviste immaginarie sull’arte che non ammettono pietàm, Episodio I: Friederich Nietzsche. // L’arte è creazione, assenza di un’autorità. Artista è colui che fa dell’acefalia la regina del proprio stato. Arte è ciò che rappresenta un’assenza (...)"
 subtitle: "<br>Interviste immaginarie sull’arte<br>che non ammettono pietà<br><br>Episodio I:<br> <h1>Friederich Nietzsche</h1>"
 description:
 image: /assets/images/anticristo.jpeg
 tags:
   - per la mente
 ---
-
-
-
 <b>Cosa rappresenta l’arte per te?</b>
 
 L’arte è creazione, assenza di un’autorità. Artista è colui che fa dell’acefalia la regina del proprio stato. Arte è ciò che rappresenta un’assenza, un’impossibilità di individuare un’autorità ultima.
