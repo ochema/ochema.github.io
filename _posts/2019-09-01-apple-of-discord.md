@@ -2,8 +2,8 @@
 layout: post
 title: "The Apple of Discord"
 date: 2019-09-01
-description: "On Certain Contemporary Culinary Catastrophes"
 subtitle: "On Certain Contemporary Culinary Catastrophes"
+description:
 image: /assets/images/apple-of-discord.jpg
 tags:
   - for the mouth
