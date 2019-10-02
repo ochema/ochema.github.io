@@ -22,7 +22,7 @@ color: $color-gold;
     left: 1em;
   }
 
-  background-color: $color-white;
+  background-color: $color-black;
   border-bottom: $border;
 
   @media (min-width: $mq-small) {
@@ -34,9 +34,6 @@ color: $color-gold;
 
   &__title {
     @extend %font-header;
-    margin: auto;
-    font-size: $font-xsmall;
-    color: $color-black;
   }
 
   &__list {
