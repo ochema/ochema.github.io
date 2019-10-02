@@ -34,7 +34,7 @@ color: $color-gold;
 
   &__title {
     @extend %font-header;
-
+    margin: auto;
     font-size: $font-xsmall;
     color: $color-black;
   }
