@@ -2,7 +2,7 @@
 layout: post
 title: "Monotonous Ostentation"
 date: 2019-09-23
-subtitle: "Monos (2019) by Alejandro Landes"
+subtitle: "Film Review: 'Monos' (2019) by Alejandro Landes"
 description:
 image: /assets/images/monos.jpg
 tags:
@@ -16,8 +16,8 @@ The Messenger arrives by horse to drill the child soldiers and to give further i
 
 They are given a cow. "Don't harm it". They kill it. They panic. More die. The group falls apart. *Did not see that coming*. Don't forget there is the hostage, by the way, the cow was just a distraction, although I sincerely enjoyed the film until she got the bullet... With new coordinates, the group embarks down the mountains into the jungle, only to further disintegrate. Power hungry children now hunt each other as much as they hunt the continuously escaping prisoner, an international journalist. The single youth sceptical from the start, known by the name Rambo, escapes the group, too, and finds his way to a family home alongside the river. He enters a timeless, wholesome life, contrasting a traumatised child, plunged back into the normality of watching game shows on television and playing chase in the backyard, with midnight jungle attacks executed by the remaining squad of child soldiers against La Organización. The prisoner is rescued after a grand escape, so we are told by the television in the family home. The family itself did not survive the search for Rambo, however, but luckily Rambo eventually manages to outrun the group and is rescued by a helicopter too.
 
-Rambo and the hostage, also dubbed *La doctora*, stood out for this reason. In hindsight, they may even have been the two characters one can identify with the most. Rambo as the innocent child, unwilling to take part in the maltreatment of the hostage. The remorseless *doctora*, on the other hand, acting as an observer and receiver of the plot. Like the viewer, she is carried along by the child soldiers wherever they have to go. Whereas she seemed compassionate at first (considering the despicable conditions she lives in, of course), her being chained by the neck was a turning point in the film. As Rambo cries for the fate of the hostage, his sins are absolved and his soul lead to salvation. The children who declined a way out for themselves, that is by collaborating with *la doctora*, receive their due punishment.
+Rambo and the hostage, also dubbed *La doctora*, stood out for this reason. In hindsight, they may even have been the two characters one can identify with the most. Rambo as the innocent child, unwilling to take part in the maltreatment of the hostage. The remorseless *doctora*, on the other hand, acting as an observer and receiver of the plot. Like the viewer, she is carried along by the child soldiers wherever they have to go. Whereas she seemed compassionate at first (considering the despicable conditions she lives in, of course), her being chained by the neck was a turning point in the film. As Rambo cries for the fate of the hostage, his sins are absolved and his soul lead to salvation. The children who declined a way out for themselves, that is, by not collaborating with *la doctora*, receive their due punishment. The expendability of the child soldiers is anything but forgotten. Rather, it is mirrored by city scape shots of a large South-American city filled with smog and slums whose inhabitants are far less relevant to the shaping of history than the children we followed throughout the film.
 
-
+6/10
 
 Signed, Ochema
