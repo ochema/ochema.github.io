@@ -18,6 +18,8 @@ They are given a cow. "Don't harm it". They kill it. They panic. More die. The g
 
 Rambo and the hostage, also dubbed *La doctora*, stood out for this reason. In hindsight, they may even have been the two characters one can identify with the most. Rambo as the innocent child, unwilling to take part in the maltreatment of the hostage. The remorseless *doctora*, on the other hand, acting as an observer and receiver of the plot. Like the viewer, she is carried along by the child soldiers wherever they have to go. Whereas she seemed compassionate at first (considering the despicable conditions she lives in, of course), her being chained by the neck was a turning point in the film. As Rambo cries for the fate of the hostage, his sins are absolved and his soul lead to salvation. The children who declined a way out for themselves, that is, by not collaborating with *la doctora*, receive their due punishment. The expendability of the child soldiers is anything but forgotten. Rather, it is mirrored by city scape shots of a large South-American city filled with smog and slums whose inhabitants are far less relevant to the shaping of history than the children we followed throughout the film.
 
+Most memorable is the almost mythic state of the youths. Their emotions are raw and their pleasures crude. Together, they explore the workings of social hierarchy, tribe formation and justice. The blessings of psilocybin are felt and a cow is skinned and devoured. They all chase the essence and meaning of their lives akin to chasing a rattle ball while blindfolded.
+
 6/10
 
 Signed, Ochema
