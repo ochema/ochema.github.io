@@ -1,21 +1,13 @@
 # Site/SEO settings
-email: mersenne.marin17@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics:
+google_analytics: UA-150463429-1
 
-#name: Thomas Vaeth
-title: ochema
+title: the ochema review
 description: a blog for cultural reviews and critique.
 url: https://ochema.org
-#twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 
-# Author settings
-#author:
-#  - name: Thomas Vaeth
-#    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-#    url: http://thomasvaeth.com
 
 # Pagination settings
 pagination:
