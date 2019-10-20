@@ -4,9 +4,10 @@ permalink: /:year/:month/:day/:title/
 google_analytics: UA-150463429-1
 
 title: the ochema review
-description: a blog for cultural reviews and critique.
+description: >
+  The Ochema Review is a platform for cultural anatomy charioteers, who carry out cultural dissections with rationality and passion.
 url: https://ochema.org
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/anticristo.jpg
 
 
 # Pagination settings
