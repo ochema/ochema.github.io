@@ -10,6 +10,7 @@ The Ochema Review is a platform for cultural anatomy charioteers, who carry out 
 Ochema reviewers lay bare the most billowing body of knowledge. They categorise all its parts and feed the mind of others with their savantly synthesised substance. It is the ethic of the charioteers to work for the benefit of others. To this end, they discover, decipher, distil and deliver meaningful messages for the spine, the spleen, the ears, the eyes, the buds and the bronchi. To each part its own appropriate content. All by way of sympathy.
 
 <center>•</center>
+<br/>
 
 Ochema is a vehicle. It transports man across his intercosmic journey, from the sublunary world to the higher spheres. The vehicle carries him, protects him, is affected by his decisions, thickens when he acts irrationally, thins when he operates rationally, sheds when the soul is ready to set free from its earthly fetters.
 
