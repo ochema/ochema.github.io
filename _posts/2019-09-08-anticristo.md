@@ -7,7 +7,7 @@ subtitle: "<br>Interviste immaginarie sull’arte<br>che non ammettono pietà<br
 description:
 image: /assets/images/anticristo.jpeg
 tags:
-  - per la mente
+  - for the joints
 ---
 <b>Cosa rappresenta l’arte per te?</b>
 
