@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monotonous Ostentation"
-date: 2019-09-23
+date: 2019-09-15
 subtitle: "Film Review: 'Monos' (2019) by Alejandro Landes"
 description:
 image: /assets/images/monos.jpg

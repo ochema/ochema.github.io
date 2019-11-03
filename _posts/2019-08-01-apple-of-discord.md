@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Apple of Discord"
-date: 2019-09-01
+date: 2019-08-01
 subtitle: "On Certain Contemporary Culinary Catastrophes"
 description:
 image: /assets/images/apple-of-discord.jpg

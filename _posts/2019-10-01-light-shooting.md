@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Light Shooting"
-date: 2019-10-03
+date: 2019-10-01
 description:
 image: /assets/images/shooting.jpg
 tags:

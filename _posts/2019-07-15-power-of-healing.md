@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Power of Healing"
-date: 2019-09-15
+date: 2019-07-15
 subtitle: "National Museum of Ethnology, Leiden<br>July 12 2019 - January 5 2020"
 excerpt: "the Dutch National Museum of Ethnology’s latest exhibition is about ritual practices aimed at restoring balances. But it is also about what, in the West, are generally regarded as alternative methods of healing, including Winti ..."
 description:

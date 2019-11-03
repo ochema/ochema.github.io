@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Soul’s Code. In Search of Character and Calling"
-date: 2019-10-03
+date: 2019-10-02
 subtitle: "James Hillman<br/>1996"
 description:
 image: /assets/images/soul.jpg

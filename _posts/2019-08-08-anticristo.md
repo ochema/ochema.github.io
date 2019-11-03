@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L’Anticristo"
-date: 2019-09-08
+date: 2019-08-08
 excerpt: "Interviste immaginarie sull’arte che non ammettono pietà, Episodio I: Friederich Nietzsche."
 subtitle: "<br>Interviste immaginarie sull’arte<br>che non ammettono pietà<br><br>Episodio I:<br> <h1>Friederich Nietzsche</h1>"
 description:
